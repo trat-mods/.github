@@ -1,5 +1,13 @@
 # Tratt Minecraft mods
 
+## 🗿 Support me 🧡
+
+### 🥝 [Buy me a Kiwi](https://buymeacoffee.com/tratteo)
+
+### 🪙 [PayPal](https://www.paypal.me/tratteo)
+
+---
+
 <p align="center">
     <img src="assets/minecraft.svg" width="500"/>
 </p>
