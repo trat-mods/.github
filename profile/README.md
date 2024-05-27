@@ -1,4 +1,4 @@
-# Tratt Minecraft mods
+# Trat Minecraft mods
 
 ## 🗿 Support me 🧡
 
