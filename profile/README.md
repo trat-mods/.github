@@ -21,6 +21,7 @@
     <img src="https://user-images.githubusercontent.com/31132987/103446388-43623800-4c7f-11eb-830c-4734d00f8468.png" height="150" />
   </p>
 
--   **[Launchers](https://github.com/TrattMods/LaunchersMod)**
--   **[Trasfer Chest](https://github.com/TrattMods/TransferChest)**
--   **[Literally Chunk Loader](https://github.com/TrattMods/LiterallyChunkLoader)**
+-   **[Launchers](https://github.com/trat-mods/LaunchersMod)**
+-   **[Trasfer Chest](https://github.com/trat-mods/TransferChest)**
+-   **[Literally Chunk Loader](https://github.com/trat-mods/LiterallyChunkLoader)**
+-   **[Multihopper](https://github.com/trat-mods/Multihopper)**
