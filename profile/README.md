@@ -12,10 +12,6 @@
     <img src="https://github.com/trat-mods/.github/blob/main/assets/minecraft.svg" width="500"/>
 </p>
   <p align="center">
-    <img src="https://github.com/trat-mods/.github/blob/main/assets/curseforge.webp" height="64" style="margin-right: 10px;" />
-    <img src="https://github.com/trat-mods/.github/blob/main/assets/fabric.webp" height="64" style="margin-left: 10px;" />
-  </p>
-  <p align="center">
     <img src="https://github.com/trat-mods/LiterallyChunkLoader/blob/main/icon.png" height="150" />
     <img src="https://github.com/trat-mods/LaunchersMod/blob/main/icon.png" width="150" />
     <img src="https://github.com/trat-mods/TransferChest/blob/main/icon.png" height="150" />
