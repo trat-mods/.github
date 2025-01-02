@@ -1,4 +1,4 @@
-<h3 align="center">Get 25% off of your Minecraft Server!</h3>
+<p align="center"><b>📢 Get 25% off of your Minecraft Server! 📢</b></p>
 <p align="center">
   <img src="https://solar-digital.com/images/portfolio/120/thumb/bisect-hosting.gif" width="400">
 </p>
