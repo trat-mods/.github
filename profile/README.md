@@ -1,4 +1,13 @@
-# Trat Minecraft mods
+<h3 align="center">Get 25% off of your Minecraft Server!</h3>
+<p align="center">
+  <img src="https://solar-digital.com/images/portfolio/120/thumb/bisect-hosting.gif" width="400">
+</p>
+
+<p align="center">
+    <a href="https://url-shortener.curseforge.com/visbm" target="_blank">  
+        <img src="https://github.com/user-attachments/assets/55cd0dd6-968f-4b4b-bb39-85fc05547f37" width="200"/>
+    </a>
+</p>
 
 ## 🗿 Support me 🧡
 
@@ -6,7 +15,7 @@
 
 ### ![](https://api.iconify.design/logos:paypal.svg)  [PayPal](https://www.paypal.me/tratteo)
 
----
+-----
 
 <p align="center">
     <img src="https://github.com/trat-mods/.github/blob/main/assets/minecraft.svg" width="500"/>
